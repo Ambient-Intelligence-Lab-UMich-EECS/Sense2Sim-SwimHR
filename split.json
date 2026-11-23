@@ -1,15 +1,16 @@
 {
   "from": {
-    "file": "/tmp/sw-site-U1TbPl/page/index.html",
-    "bytes": 14741610,
-    "sha256": "b25151879b770e9be81a5a5b83713871224a594d03c12ca0c13ef42e5d54deaa"
+    "file": "/tmp/sw-site-2R9tI6/page/index.html",
+    "bytes": 14754133,
+    "sha256": "8f315a92cfbd3cb3e395816e6a98dbf87e13cb6ece41851b7c4288cf039868fc"
   },
   "page": {
     "path": "index.html",
-    "bytes": 1525622,
-    "sha256": "6a20e603b75344320efb40676a4389bbdd5a2e2442a7c10223e26fab1d0227da"
+    "bytes": 1538145,
+    "sha256": "a93206a90bf8ecc0c1ab3076fe3ec651a8d1cd93f2dcaa2867581ebbd12f5fba"
   },
   "library": "/nfs/turbo/coe-kesuniot1/senseweaver/library/current",
+  "kb": "/nfs/turbo/coe-kesuniot1/senseweaver/staging/2026-11-18-a61/kit85/kb/kb.json",
   "files": [
     {
       "path": "library/HUM-adult.txt",
@@ -196,6 +197,7 @@
       "type": "application/json",
       "kind": "kg",
       "id": "exp-kg",
+      "kb": true,
       "bytes": 897718,
       "sha256": "3151bd6ce1b5b09f7be89d23dc32c4c7ee6ac289f1600350b8ea4b01790b31cb"
     },
