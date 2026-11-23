@@ -1,0 +1,217 @@
+{
+  "from": {
+    "file": "/tmp/sw-site-YsRXu7/page/index.html",
+    "bytes": 14741534,
+    "sha256": "38599b160994b45a16d781d6e04f3af73822e90f3c60422d69c06b8e7c6b1853"
+  },
+  "page": {
+    "path": "index.html",
+    "bytes": 1525546,
+    "sha256": "11ecfb3f366ebdf307cbf7fb09042c16a9a931b31b385f31dbf0c1a5bb1b51eb"
+  },
+  "library": "/nfs/turbo/coe-kesuniot1/senseweaver/library/current",
+  "files": [
+    {
+      "path": "library/HUM-adult.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "HUM-adult",
+      "glb": {
+        "bytes": 266668,
+        "sha256": "7bc4ef4503e643339a52b7b3b10d30ef1c06fa218571dc4773c271c6fb9b8e21"
+      },
+      "library": "model.glb",
+      "bytes": 355560,
+      "sha256": "96b96f0d3046751a1c250e0255b735474be17d1ff02926f08497a19c3061647f"
+    },
+    {
+      "path": "library/X78.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "X78",
+      "glb": {
+        "bytes": 129900,
+        "sha256": "3365f161fdd94571b736320adf267ff46110423f47b956fb8883503e1f050f39"
+      },
+      "library": "model.glb",
+      "bytes": 173200,
+      "sha256": "8d484c77c17c8c9f11553592b56f630193e6845fa38148b8e963795c0237a539"
+    },
+    {
+      "path": "library/OBJ-drone_control_pcb.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "OBJ-drone_control_pcb",
+      "glb": {
+        "bytes": 297380,
+        "sha256": "59b6e212e72b786754354d422fc51499203316a442511209b9fffc9d0efb306e"
+      },
+      "library": "lod1.glb",
+      "bytes": 396508,
+      "sha256": "429379b5dc6efb8e6ffeebd2b26cf5eb93cad3eb2fe69cb9ff5ab56658cc985e"
+    },
+    {
+      "path": "library/W07.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "W07",
+      "glb": {
+        "bytes": 52548,
+        "sha256": "079674085ce600fa73afc4586bb23250783ac3d23cfc01e3f2744fc25541647e"
+      },
+      "library": "model.glb",
+      "bytes": 70064,
+      "sha256": "8f30dbe0f22e83173ec502f96d1b0c8e983a3c82ef7d173d67d959c6a88c4990"
+    },
+    {
+      "path": "media/fig1.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig1",
+      "bytes": 174859,
+      "sha256": "36d7c922f932d875f3d150fe07da46796a263e987c65a18d2cd241d59b85f6e7"
+    },
+    {
+      "path": "media/fig2.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig2",
+      "bytes": 223320,
+      "sha256": "ecc61d6808939250814edcc099e897bcdc99ec549fb9084020c94cff1379bc8c"
+    },
+    {
+      "path": "media/fig3.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig3",
+      "bytes": 110249,
+      "sha256": "febb6346406df74829515477a2a081d529f31ac881c181a12163bfb112713c99"
+    },
+    {
+      "path": "media/fig4.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig4",
+      "bytes": 119374,
+      "sha256": "36f6ffd5447d3078b1e23865a99fd009251ab5e1ec676d0615989c85429bb776"
+    },
+    {
+      "path": "media/fig5.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig5",
+      "bytes": 51300,
+      "sha256": "7a5dc413f8b23c6df2ee178ef2117e62d8c00697072638d98ae99018266010df"
+    },
+    {
+      "path": "media/fig6.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig6",
+      "bytes": 210265,
+      "sha256": "0fa84a5a08fc510dfcbaa6b490330a748078420b9fa7059b8bade6a8ce35d1f7"
+    },
+    {
+      "path": "media/fig7.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig7",
+      "bytes": 181988,
+      "sha256": "cce77b8c44c1c7157e464c42a9c143d5417e2736db6d15259122a6e71f7f640e"
+    },
+    {
+      "path": "media/fig8.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig8",
+      "bytes": 334875,
+      "sha256": "ef0c7e845d56a67ed912b1e2063889c747b0770270977e44fadddd8a537bf604"
+    },
+    {
+      "path": "media/fig9.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig9",
+      "bytes": 205943,
+      "sha256": "997b5e10081113bd0c8922d8c702c3f331eada45d76e2ab95222d0fab4a3d0da"
+    },
+    {
+      "path": "media/fig10.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig10",
+      "bytes": 66438,
+      "sha256": "47f5bc8ce0bba18f19e15804e23fb0848166185ac0f9be3a631642a03391f755"
+    },
+    {
+      "path": "media/fig11.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig11",
+      "bytes": 94554,
+      "sha256": "2de2e3bcdc67fbd2c863136fc11919067ca1b40f42edd30ad8bff0c4f7e83973"
+    },
+    {
+      "path": "media/fig12.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig12",
+      "bytes": 44836,
+      "sha256": "009d8407b94d13dac21285083be999d8afb08f7bcf6c1ab5a69f4d977baf539f"
+    },
+    {
+      "path": "media/fig13.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig13",
+      "bytes": 52320,
+      "sha256": "89727aa4d4c5a318f36b529d7b27338f4dc155742980c5d47fe0dfe5cd263472"
+    },
+    {
+      "path": "media/fig14.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig14",
+      "bytes": 74542,
+      "sha256": "1507fd5cc0c3ffc1ed9fb37502d8778a3e7e3431489ac42afe5f1bac6b4e70d4"
+    },
+    {
+      "path": "media/fig15.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig15",
+      "bytes": 49068,
+      "sha256": "2fefa686c397f0efa8f29be0be87353f50fd7310e9f49203a96a6e3776c5fa9d"
+    },
+    {
+      "path": "media/demo.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "demo",
+      "bytes": 6498670,
+      "sha256": "d8d2f8339cb232227f94c66507e73b75b23a70fda7176b83a03f848fe6d0c422"
+    },
+    {
+      "path": "kg/exp-kg.json",
+      "type": "application/json",
+      "kind": "kg",
+      "id": "exp-kg",
+      "bytes": 897718,
+      "sha256": "3151bd6ce1b5b09f7be89d23dc32c4c7ee6ac289f1600350b8ea4b01790b31cb"
+    },
+    {
+      "path": "world/swimhr-lake.glb.js",
+      "type": "text/javascript",
+      "kind": "world",
+      "bytes": 1043299,
+      "sha256": "0cd72a165933f1e2f61faf782a558e9b14401d5a85b25e3e8b31c2361c2a142b"
+    },
+    {
+      "path": "world/swimhr-ward.glb.js",
+      "type": "text/javascript",
+      "kind": "world",
+      "bytes": 2492955,
+      "sha256": "50643cfcdcbacf8fe3563c2106f48f64cc0ae12663e9d7ebd4e1b93d710c694f"
+    }
+  ]
+}
