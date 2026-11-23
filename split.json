@@ -1,13 +1,13 @@
 {
   "from": {
-    "file": "/tmp/sw-site-YsRXu7/page/index.html",
-    "bytes": 14741534,
-    "sha256": "38599b160994b45a16d781d6e04f3af73822e90f3c60422d69c06b8e7c6b1853"
+    "file": "/tmp/sw-site-U1TbPl/page/index.html",
+    "bytes": 14741610,
+    "sha256": "b25151879b770e9be81a5a5b83713871224a594d03c12ca0c13ef42e5d54deaa"
   },
   "page": {
     "path": "index.html",
-    "bytes": 1525546,
-    "sha256": "11ecfb3f366ebdf307cbf7fb09042c16a9a931b31b385f31dbf0c1a5bb1b51eb"
+    "bytes": 1525622,
+    "sha256": "6a20e603b75344320efb40676a4389bbdd5a2e2442a7c10223e26fab1d0227da"
   },
   "library": "/nfs/turbo/coe-kesuniot1/senseweaver/library/current",
   "files": [
@@ -212,6 +212,13 @@
       "kind": "world",
       "bytes": 2492955,
       "sha256": "50643cfcdcbacf8fe3563c2106f48f64cc0ae12663e9d7ebd4e1b93d710c694f"
+    },
+    {
+      "path": "about/assets.jpg",
+      "type": "image/jpeg",
+      "kind": "about",
+      "bytes": 255701,
+      "sha256": "a51c4183387e14b4b30743bf27ce09d141f5416df282c4171cdf4dd71a7e139f"
     }
   ]
 }
