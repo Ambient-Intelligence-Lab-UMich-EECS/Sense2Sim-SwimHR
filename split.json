@@ -1,13 +1,13 @@
 {
   "from": {
-    "file": "/tmp/sw-site-2R9tI6/page/index.html",
-    "bytes": 14754133,
-    "sha256": "8f315a92cfbd3cb3e395816e6a98dbf87e13cb6ece41851b7c4288cf039868fc"
+    "file": "/tmp/sw-site-RVjCZP/page/index.html",
+    "bytes": 14756025,
+    "sha256": "c997919e89bad06639045c1866b9883dfe42716e94acd51c1b549a8aad7c794b"
   },
   "page": {
     "path": "index.html",
-    "bytes": 1538145,
-    "sha256": "a93206a90bf8ecc0c1ab3076fe3ec651a8d1cd93f2dcaa2867581ebbd12f5fba"
+    "bytes": 1540037,
+    "sha256": "66021568d9a1a258b3b97f4a73eba0a76763a8d85065faf5b125befa86a6692c"
   },
   "library": "/nfs/turbo/coe-kesuniot1/senseweaver/library/current",
   "kb": "/nfs/turbo/coe-kesuniot1/senseweaver/staging/2026-11-18-a61/kit85/kb/kb.json",
